@@ -1,0 +1,8 @@
+prefix=/home/kgreen/catkin_ws/install
+
+Name: image_view
+Description: Description of image_view
+Version: 1.12.19
+Cflags: -I/home/kgreen/catkin_ws/install/include
+Libs: -L/home/kgreen/catkin_ws/install/lib 
+Requires: dynamic_reconfigure

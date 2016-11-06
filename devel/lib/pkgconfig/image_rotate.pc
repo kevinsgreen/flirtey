@@ -1,0 +1,8 @@
+prefix=/home/kgreen/catkin_ws/devel
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.12.19
+Cflags: -I/home/kgreen/catkin_ws/devel/include
+Libs: -L/home/kgreen/catkin_ws/devel/lib 
+Requires: 
